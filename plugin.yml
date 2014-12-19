@@ -1,0 +1,10 @@
+main: com.breakmc.DeathBan.Main
+name: DeathBan
+version: 0.0.1
+
+permission:
+  deathban.feed:
+      default: op
+        deathban.heal:
+	    default: op
+
